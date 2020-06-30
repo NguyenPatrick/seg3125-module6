@@ -1,5 +1,1 @@
-[
-  { "color": "Red", "count": 15 },
-  { "color": "Green", "count": 15 },
-  { "color": "Blue", "count": 13 }
-]
+[{"color":"Red","count":29},{"color":"Green","count":29},{"color":"Blue","count":17}]

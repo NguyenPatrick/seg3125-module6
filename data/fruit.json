@@ -1,1 +1,4 @@
-[{"fruit":"food","count":1},{"fruit":"qwer","count":28},{"fruit":"","count":58}]
+[
+  { "fruit": "strawberry", "count": 1 },
+  { "fruit": "banana", "count": 30 }
+]
